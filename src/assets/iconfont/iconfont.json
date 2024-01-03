@@ -1,0 +1,16 @@
+{
+  "id": "4397802",
+  "name": "maps",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7036713",
+      "name": "集合",
+      "font_class": "jihe",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
